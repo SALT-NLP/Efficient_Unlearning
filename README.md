@@ -26,12 +26,12 @@ Large language models (LLMs) have achieved significant progress from pre-trainin
 
 ### 🧠 Single Unlearn
 
-'''
+```
 python src/run.py --unlearn --forgot_data "forgot.csv" --retained_data "retained.csv"
-'''
+```
 
 ### 🌐 Fusing Unlearning Layers
 
-'''
+```
 python src/run.py --merge --merge_set "the folder of the weights to merge"
-'''
+```
