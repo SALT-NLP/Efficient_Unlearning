@@ -13,14 +13,10 @@ Large language models (LLMs) have achieved significant progress from pre-trainin
 
 </details>
 
-## 📂 Folder Structure
-
-- Folder Descriptions
 
 ## 📊 Data Description
 
 📥 **Download Data**: [Download Link]
-- Data Specifications
 
 ## 🚀 How to Run
 
